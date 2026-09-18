@@ -1,6 +1,4 @@
 # TrackIt
-
-<<<<<<< HEAD
 TrackIt helps students discover opportunities, save them, apply, and track application progress from one place.
 
 ## Project Structure
